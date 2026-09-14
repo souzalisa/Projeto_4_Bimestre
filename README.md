@@ -1,4 +1,4 @@
-# Projeto-3-Trimestre
+# Projeto-4-Bimestre
 Desenvolvimento de um jogo utilizando HTML e CSS
 
 # Objetivo
