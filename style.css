@@ -27,12 +27,27 @@ p {
     float: left;
     width: 70%;
     display: flex;
-    gap: 50px;
+    gap: 70px;
     justify-content: center;
 }
 
 .rightcolumn {
     float: left;
-    width: 15%;
-    padding-left: 10px;
+    width: 25%;
+    padding-right: 10%;
+}
+
+.card {
+    background-color: #D5F3FF;
+    padding: 40px;
+    height: 200px;
+    width: 280px;
+    border-radius: 30px;
+}
+
+#nivel {
+    color: black;
+    background-color: white;
+    padding: 15px;
+    border-radius: 35px;
 }
